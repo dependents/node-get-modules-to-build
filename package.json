@@ -1,0 +1,30 @@
+{
+  "name": "get-modules-to-build",
+  "version": "0.0.0",
+  "description": "Get the names of the modules to build from a requirejs config",
+  "main": "index.js",
+  "bin": {
+    "get-modules-to-build": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "get-modules-to-build": "bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mrjoelkemp/node-get-modules-to-build.git"
+  },
+  "keywords": [
+    "AMD",
+    "requirejs",
+    "modules"
+  ],
+  "author": "Joel Kemp <joel@mrjoelkemp.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrjoelkemp/node-get-modules-to-build/issues"
+  },
+  "homepage": "https://github.com/mrjoelkemp/node-get-modules-to-build"
+}
