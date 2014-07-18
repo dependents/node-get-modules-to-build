@@ -1,6 +1,6 @@
 {
   "name": "get-modules-to-build",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the names of the modules to build from a requirejs config",
   "main": "index.js",
   "bin": {
